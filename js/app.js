@@ -1,70 +1,70 @@
-// // let random = Math.round(Math.random() * 77);
-// // let guess = "";
+let random = Math.round(Math.random() * 77);
+let guess = "";
 
-// // while (guess !== "ha") {
-// //   guess = prompt(`sizning soningiz ${random}`);
-// // }
+while (guess !== "ha") {
+  guess = prompt(`sizning soningiz ${random}`);
+}
 
-// // if(guess === "ha") {
-// //     console.log("men topdim")
-// // }
+if(guess === "ha") {
+    console.log("men topdim")
+}
 
-// // ====== //
-// // 1-mashq//
-// // ====== //
+// ====== //
+// 1-mashq//
+// ====== //
 
-// const alohida = prompt("son kiriting")
+const alohida = prompt("son kiriting")
 
-// console.log("floor"(Math.floor(alohida)))
-// console.log(Math.floor(alohida))
-// console.log(Math.ceil(alohida))
+console.log("floor"(Math.floor(alohida)))
+console.log(Math.floor(alohida))
+console.log(Math.ceil(alohida))
 
-// // ======= //
-// // 2-mashq //
-// // ======= //
+// ======= //
+// 2-mashq //
+// ======= //
 
-// // console.log(Math.round(Math.round() * 10))
+console.log(Math.round(Math.round() * 10))
 
-// // ======= //
-// // 3-mashq //
-// // ======= //
+// ======= //
+// 3-mashq //
+// ======= //
 
-// let abubakr;
+let abubakr;
 
-// console.log(abubakr)
-// console.log(null)
+console.log(abubakr)
+console.log(null)
 
-// // ======= //
-// // 4-mashq //
-// // ======= //
+// ======= //
+// 4-mashq //
+// ======= //
 
-// // let sonlar = 0
+// let sonlar = 0
 
-// // sonlar = sonlar + 1;
-// // while(sonlar < 10) {
-// //     console.log(Math.floor(Math.random() * 100))
-// //     sonlar = sonlar + 1
-// // }
-
-// // ======= //
-// // 5-mashq //
-// // ======= //
-
-// const daraja = prompt("son kiriting")
-
-// console.log(Math.pow(daraja, 2))
+sonlar = sonlar + 1;
+while(sonlar < 10) {
+    console.log(Math.floor(Math.random() * 100))
+    sonlar = sonlar + 1
+}
 
 // ======= //
 // 5-mashq //
 // ======= //
 
-// let raqam = 0;
+const daraja = prompt("son kiriting")
 
-// while (raqam <= 20) {
-//   raqam = raqam + 1;
-//   if (raqam % 2 === 0) continue;
-//   console.log(raqam);
-// }
+console.log(Math.pow(daraja, 2))
+
+// ======= //
+// 6-mashq //
+// ======= //
+
+let raqam = 0;
+
+while (raqam <= 20) {
+  raqam = raqam + 1;
+  if (raqam % 2 === 0) continue;
+  console.log(raqam);
+}
 
 // ======= //
 // 7-mashq //
