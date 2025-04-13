@@ -81,14 +81,27 @@
 //   }
 // } while (!(+toping == topgin));
 
+// // ======= //
+// // 8-mashq //
+// // ======= //
+
+// let randomson = 0;
+
+// while (randomson <= 50) {
+//   if(randomson % 3 === 0) console.log(randomson)
+//   if(randomson === 21) break
+//   randomson = randomson + 1
+// }
+
+
 // ======= //
-// 8-mashq //
+// 9-mashq //
 // ======= //
 
-let randomson = 0;
+// const bir = Math.round(Math.random() * 100)
+// const ikki = Math.round(Math.random() * 100)
+// const uch = Math.round(Math.random() * 100)
+// const tort = Math.round(Math.random() * 100)
+// const besh = Math.round(Math.random() * 100)
 
-while (randomson <= 50) {
-  if(randomson % 3 === 0) console.log(randomson)
-  if(randomson === 21) break
-  randomson = randomson + 1
-}
+// console.log(Math.max(bir, ikki, uch, tort, besh))
